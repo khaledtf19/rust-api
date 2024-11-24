@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS foo (
+  id SERIAL PRIMARY KEY,
+  message TEXT
+);
